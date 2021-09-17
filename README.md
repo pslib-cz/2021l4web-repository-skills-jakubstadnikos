@@ -9,7 +9,7 @@ Obsahuje zatím:
 :camel: 
 ![Besk](images/blesk.webp)
 
-## [Tohle je super škola](https://pslib.cz)
+## [Toto je info](https://pslib-cz.github.io/2021l4web-repository-skills-jakubstadnikos/info.html)
 
 Změna | Popis
 ----- | ------
