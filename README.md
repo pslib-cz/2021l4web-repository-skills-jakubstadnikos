@@ -2,9 +2,9 @@
 Obsahuje zatím:
 * Ahoj světe
 * Základ designu
- * Hodně dobrý základ
- * Ještě lepší základ
- * Je to hustý 
+  * Hodně dobrý základ
+  * Ještě lepší základ
+  * Je to hustý 
 *olalaaaa*
 :camel: 
 ![Besk](images/blesk.webp)
